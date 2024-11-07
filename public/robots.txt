@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://noseedsubak.github.io/sitemap-0.xml
